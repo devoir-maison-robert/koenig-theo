@@ -1,0 +1,53 @@
+h1 {
+	text-align: center;
+}
+
+general*/
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+body
+{
+    font-family: Arial,sans-serif;
+    font-size: 15px;
+}
+
+
+/*header*/
+header 
+{
+    height: 120px;
+}
+
+header h1
+{
+    float: left;
+    margin-top: 32px;
+}
+header nav
+{
+    float: left;
+    margin-top: 50px;
+}
+
+header nav 
+{
+       float: right;
+    margin-top: 35px;
+}
+
+header nav ul li
+{
+       float: left;
+    display: inline-block; 
+}
+
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px
+}
